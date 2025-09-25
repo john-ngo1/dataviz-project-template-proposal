@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is a dataset that describes information about individuals and how much they pay in health insurance charges. From this dataset, some informaqtion like age, sex, smoker, and region are things that stand out as interesting. 
+The data I propose to visualize for my project is a dataset that describes information about individuals and how much they pay in health insurance charges. From this dataset, some informaqtion like age, sex, smoker, and region are things that stand out as interesting. I obtained this data set from https://www.kaggle.com/datasets/mosapabdelghany/medical-insurance-cost-dataset.
 
 
 ## Questions & Tasks
@@ -27,25 +27,17 @@ This iterated sketch adds colors indicating whether the individual is a smoker, 
 
 I’ve created a proof of concept visualization of this data. It's a scatterplot and it shows the relationship between age, smoking, and health insurance charges. It also shows a trendline for smokers and non-smokers and includes a tooltip showing more information.
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can put images into here by pasting them into issues.
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
+![image](Sketch3.png)
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+I am interested in the data and the visualization, but I feel like the visualizations I have made are too simple. I am worried that there is not enough information or that I could be doing more with this dataset. I have added the data that I think is interesting and interactivity, but I could potentially somehow add even more attributes into the visualization or go a completely different route in order to make a more interesting creation.
 
 ## Milestones
 
-(for each week, estimate what would be accomplised)
+For each week in the course, I plan to add new information and transform my simple graph into something beautiful.
+
+End of September: Consider what my final visualization will look like.
+End of October: Add small details in order to make a more interesting and informative visualization.
+End of November: Add depth that conveys the most information possible and allows viewers to extract conclusions from it.
+End of course: Create a finished product.
