@@ -38,6 +38,9 @@ I am interested in the data and the visualization, but I feel like the visualiza
 For each week in the course, I plan to add new information and transform my simple graph into something beautiful.
 
 End of September: Consider what my final visualization will look like.
+
 End of October: Add small details in order to make a more interesting and informative visualization.
+
 End of November: Add depth that conveys the most information possible and allows viewers to extract conclusions from it.
+
 End of course: Create a finished product.
