@@ -15,7 +15,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-
+![Sketch1](https://private-user-images.githubusercontent.com/189186289/493691960-0d348943-acbd-480c-9762-8b3c3dc5a891.png)
 
 
 ## Prototypes
