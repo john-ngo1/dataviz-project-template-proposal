@@ -15,12 +15,17 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-![Sketch1](Sketch1.png))
+![Sketch 1](Sketch1.png)
 
+This first sketch is a very basic graph comparing age to insurance charges, predicting that charges will increase with age.
+
+![Sketch 2](Sketch2.png)
+
+This iterated sketch adds colors indicating whether the individual is a smoker, as well as adding a tooltip that displays more information about the individual.
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a scatterplot and it shows the relationship between age, smoking, and health insurance charges. It also shows a trendline for smokers and non-smokers and includes a tooltip showing more information.
 
 [![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
 
