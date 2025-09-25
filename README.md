@@ -2,22 +2,20 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is a dataset that describes information about individuals and how much they pay in health insurance charges. From this dataset, some informaqtion like age, sex, smoker, and region are things that stand out as interesting. 
 
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * How do insurance charges change as people get older?
+ * Is there a correlation between being a smoker and how much insurance charges are?
+ * Are there are any relationships between health insurance charges and what region a person is from?
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+
 
 
 ## Prototypes
