@@ -27,7 +27,11 @@ This iterated sketch adds colors indicating whether the individual is a smoker, 
 
 I’ve created a proof of concept visualization of this data. It's a scatterplot and it shows the relationship between age, smoking, and health insurance charges. It also shows a trendline for smokers and non-smokers and includes a tooltip showing more information.
 
-![image](Sketch3.png)
+![image](Prototype1.png)
+
+I also created another visualization that describes that relationship between number of children, region, and insurance charges through grouped bar graphs.
+
+![image](Prototype2.png)
 
 ## Open Questions
 
