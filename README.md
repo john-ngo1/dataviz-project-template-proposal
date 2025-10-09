@@ -35,7 +35,7 @@ I also created another visualization that describes that relationship between nu
 
 I then went back and edited my original prototype in order to make a cleaner look using boxplots. Since there are so many datapoints, it would be easier to understand statistics like median using boxplots. I also added the number of indidividuals in each category.
 
-![image](Prototype3.pmg)
+![image](Prototype3.png)
 
 ## Open Questions
 
