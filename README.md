@@ -25,24 +25,24 @@ This iterated sketch adds colors indicating whether the individual is a smoker, 
 
 ## Prototypes
 
-I first created a proof of concept visualization of this data. It's a scatterplot and it shows the relationship between age, smoking, and health insurance charges. It also shows a trendline for smokers and non-smokers and includes a tooltip showing more information.
+Week 5: I first created a proof of concept visualization of this data. It's a scatterplot and it shows the relationship between age, smoking, and health insurance charges. It also shows a trendline for smokers and non-smokers and includes a tooltip showing more information.
 
 ![image](Prototype1.png)
 
-I also created another visualization that describes that relationship between number of children, region, and insurance charges through grouped bar graphs.
+Week 6: I also created another visualization that describes that relationship between number of children, region, and insurance charges through grouped bar graphs.
 
 ![image](Prototype2.png)
 
-I then went back and edited my original prototype in order to make a cleaner look using boxplots. Since there are so many datapoints, it would be easier to understand statistics like median using boxplots. I also added the number of indidividuals in each category.
+Week 7: I then went back and edited my original prototype in order to make a cleaner look using boxplots. Since there are so many datapoints, it would be easier to understand statistics like median using boxplots. I also added the number of indidividuals in each category.
 
 ![image](Prototype3.png)
 
-Going back, I tried to fully understand my data and attempted to find the most interesting relationships. Here, I visualized BMI and number of children in the graph comparing age and insurance charges.
+Week 9: Going back, I tried to fully understand my data and attempted to find the most interesting relationships. Here, I visualized BMI and number of children in the graph comparing age and insurance charges.
 
 ![image](BMI_Prototype.png)
 ![image](Children_Prototype.png)
 
-After seeing these visualizations, I wanted to create a new visualization that combined all of this information, leading to my fourth prototype, which includes a attribute selection pane that allows all attributes to be visualized.
+Week 10: After seeing these visualizations, I wanted to create a new visualization that combined all of this information, leading to my fourth prototype, which includes a attribute selection pane that allows all attributes to be visualized.
 
 ![image](Prototype4.png)
 
