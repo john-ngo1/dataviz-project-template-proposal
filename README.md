@@ -37,6 +37,15 @@ I then went back and edited my original prototype in order to make a cleaner loo
 
 ![image](Prototype3.png)
 
+Going back, I tried to fully understand my data and attempted to find the most interesting relationships. Here, I visualized BMI and number of children in the graph comparing age and insurance charges.
+
+![image](BMI_Prototype.png)
+![image](Children_Prototype.png)
+
+After seeing these visualizations, I wanted to create a new visualization that combined all of this information, leading to my fourth prototype, which includes a attribute selection pane that allows all attributes to be visualized.
+
+![image](Prototype4.png)
+
 ## Open Questions
 
 I am interested in the data and the visualization, but I feel like the visualizations I have made are too simple. I am worried that there is not enough information or that I could be doing more with this dataset. I have added the data that I think is interesting and interactivity, but I could potentially somehow add even more attributes into the visualization or go a completely different route in order to make a more interesting creation.
