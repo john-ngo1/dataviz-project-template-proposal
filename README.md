@@ -46,6 +46,11 @@ Week 10: After seeing these visualizations, I wanted to create a new visualizati
 
 ![image](Prototype4.png)
 
+Finished Product: I made small changes to the graph in order to increase visiblity, such as making all the points slightly transparent and adding jitter, which helps to differentiate between points better. This visualization shows the clear positive correlation between age and insurance charges, as well as the very prominent correlation between smoking and insurance charges. However, none of the other attributes seemed to have a strong correlation with insurance charges.
+
+![image](Rough_Draft.png)
+https://vizhub.com/john-ngo1/758f14b8770f4af6a08c54e60b9eff18
+
 ## Open Questions
 
 I am interested in the data and the visualization, but I feel like the visualizations I have made are too simple. I am worried that there is not enough information or that I could be doing more with this dataset. I have added the data that I think is interesting and interactivity, but I could potentially somehow add even more attributes into the visualization or go a completely different route in order to make a more interesting creation.
