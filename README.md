@@ -50,18 +50,10 @@ Finished Product: I made small changes to the graph in order to increase visibli
 
 [![Final Draft](Rough_Draft.png)](https://vizhub.com/john-ngo1/758f14b8770f4af6a08c54e60b9eff18)
 
-## Open Questions
+## Results
 
-I am interested in the data and the visualization, but I feel like the visualizations I have made are too simple. I am worried that there is not enough information or that I could be doing more with this dataset. I have added the data that I think is interesting and interactivity, but I could potentially somehow add even more attributes into the visualization or go a completely different route in order to make a more interesting creation.
+I was able to create an in-depth visualization that has the capability to see the relationships between multiple different attributes. Focusing on age and insurane charges, the visualization allows for coloring by other attributes like BMI and number of children. From this, we have learned that there is no significant relationship between BMI, number of children, or region and insurance charges, but that age and being a smoker do have a large impact on the amount of insurance charges an individual pays for. 
 
-## Milestones
+## Future Goals
 
-For each week in the course, I plan to add new information and transform my simple graph into something beautiful.
-
-End of September: Consider what my final visualization will look like.
-
-End of October: Add small details in order to make a more interesting and informative visualization.
-
-End of November: Add depth that conveys the most information possible and allows viewers to extract conclusions from it.
-
-End of course: Create a finished product.
+Some of the goals that I was not able to implement that might be able to be added in the future are adding more data and adding more attributes. The dataset that was used had 1338 instances, which is relatively small for how many people in the US pay health insurance. Furthermore, the dataset contained age, BMI, smoker, region, and number of children, but I would love to delve further and explore attributes like race, gender, health status, economic status, and other demographics.
